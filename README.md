@@ -1,0 +1,1 @@
+# truthgpt-on-google-extension-mini
